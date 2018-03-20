@@ -1,5 +1,6 @@
 package Solution;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class Solution2583 {
@@ -80,6 +81,7 @@ public class Solution2583 {
         }
 
         System.out.println(count);
+        Arrays.sort(area);
         for (int i = 0; i < M * N; i++) {
             if (area[i] > 0) {
                 System.out.print(area[i] + " ");
