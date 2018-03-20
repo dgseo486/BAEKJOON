@@ -2,7 +2,7 @@ package Solution;
 
 import java.util.Scanner;
 
-public class Solution1012 {
+public class Solution1012 {  // ¿Ø±‚≥Û πË√ﬂ
 	
 	static int N = 0;
 	static int M = 0;

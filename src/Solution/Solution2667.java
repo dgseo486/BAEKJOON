@@ -77,7 +77,7 @@ public class Solution2667 { // 단지번호붙이기
 
 		int[] object = new int[N * N];
 		count(map, object);
-		
+
 		for (int i = 0; i < N * N; i++) {
 			if (object[i] > 0) {
 				System.out.println(object[i]);

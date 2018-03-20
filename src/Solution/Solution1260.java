@@ -5,7 +5,7 @@ import java.util.Queue;
 import java.util.Scanner;
 import java.util.Stack;
 
-public class Solution1260 {
+public class Solution1260 { // DFS와 BFS
 	
 	static int edgeArr[][];
 	static boolean visited[];
