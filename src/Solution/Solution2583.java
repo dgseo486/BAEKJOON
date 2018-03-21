@@ -3,7 +3,7 @@ package Solution;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Solution2583 {
+public class Solution2583 { // 영역 구하기
     static int M = 0;
     static int N = 0;
     static int K = 0;
