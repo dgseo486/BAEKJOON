@@ -154,13 +154,6 @@ public class Solution15683 {    //감시
         
         System.out.println(blindSpot);
         
-        /*for(int i = 0; i < N; i++) {
-            for(int j = 0; j < M; j++) {
-                System.out.print(visited[i][j] + " ");
-            }
-            System.out.println();
-        }*/
-        
         sc.close();
     }
 
